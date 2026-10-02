@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://online-kazino-bez-registracii759.github.io/sitemap.xml
